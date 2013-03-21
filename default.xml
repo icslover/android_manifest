@@ -4,12 +4,12 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
 
-  <remote  name="cfx"
-           fetch="https://bitbucket.org/codefirex/" />
-
   <remote  name="github"
            fetch=".."
            review="review.cyanogenmod.org" />
+           
+  <remote  name="cfx"
+           fetch="https://bitbucket.org/codefirex/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
