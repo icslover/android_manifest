@@ -35,9 +35,6 @@
            
   <remote  name="linaro"
            fetch="git://android.git.linaro.org/" />
-           
-  <remote  name="sm"
-           fetch="https://github.com/SaberMod/" />
 
   <default revision="refs/tags/android-4.2.2_r1"
            remote="aosp"
