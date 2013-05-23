@@ -332,7 +332,7 @@
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" remote="aosp" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" remote="aosp" revision="refs/tags/android-4.2.2_r1.1" />
-  <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="aosp" remote="th" revision="jb-mr1" />
+  <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="th" revision="jb-mr1" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="th" revision="jb-mr1" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" remote="aosp" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" remote="aosp" revision="refs/tags/android-4.2.2_r1.2" />
