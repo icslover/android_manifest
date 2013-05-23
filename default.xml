@@ -10,6 +10,9 @@
 
   <remote  name="general"
            fetch="https://github.com" />
+           
+  <remote  name="aokp"
+           fetch="https://github.com/" />
 
   <remote  name="github"
            fetch=".."
