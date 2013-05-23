@@ -11,6 +11,9 @@
   <remote  name="general"
            fetch="https://github.com" />
            
+  <remote  name="cm"
+           fetch="https://github.com/CyanogenMod/" />
+           
   <remote  name="aokp"
            fetch="https://github.com/" />
 
