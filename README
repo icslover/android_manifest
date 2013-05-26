@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 repo init -u git://github.com/icslover/android_manifest.git -b master
 repo sync
+=======
+$ repo init -u git://github.com/icslover/android_manifest.git -b xylon
+$ repo sync
+>>>>>>> 73a22eddf86eb0bee7d6f1e6ef52ec2e2c46a2d6
